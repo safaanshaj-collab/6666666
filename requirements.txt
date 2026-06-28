@@ -1,3 +1,8 @@
 flask
 flask-socketio
 eventlet
+flask
+flask-socketio
+python-socketio
+eventlet
+tornado

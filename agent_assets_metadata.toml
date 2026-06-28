@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "tkXdUEBYjhUClOifDM5wq"
+uri = "file://website_full.zip"
+type = "unspecified"
+title = "Full Website — Fixed Multiplayer & No Logout (website_full.zip)"
